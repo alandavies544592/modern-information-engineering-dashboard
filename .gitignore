@@ -2,3 +2,7 @@ abxdb.db
 *.db
 *.sqlite
 *.sqlite3
+abxdb.db
+*.db
+*.sqlite
+*.sqlite3
