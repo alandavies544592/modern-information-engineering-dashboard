@@ -3,6 +3,7 @@ abxdb.db
 *.sqlite
 *.sqlite3
 abxdb.db
-*.db
-*.sqlite
-*.sqlite3
+__pycache__/
+*.pyc
+.env
+venv/
